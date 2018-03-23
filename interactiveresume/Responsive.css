@@ -1,0 +1,14 @@
+@media screen and (max-width: 900px) {
+  .cardIcon {
+    display: none; } }
+@media screen and (max-width: 640px) {
+  .subItems {
+    flex-wrap: wrap; }
+
+  .subItemCardOuter {
+    min-width: 100%; }
+
+  .subItemCard {
+    align-items: center; } }
+
+/*# sourceMappingURL=Responsive.css.map */
