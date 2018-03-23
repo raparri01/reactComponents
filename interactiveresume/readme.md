@@ -3,7 +3,7 @@ The interactive resume is designed to provide your personal website with a easil
 
 Example: https://www.robertaparri.com
 
-The <InteractiveResume /> component takes a single props detailing your work experience.
+The \<InteractiveResume /> component takes a single props detailing your work experience.
 The props should have the following structure:
 
 const workItems = [
@@ -30,5 +30,4 @@ const workItems = [
 ]
 
 # Usage
-
-<InteractiveResume workItems = {workItems} />
+\<InteractiveResume workItems = {workItems} />
